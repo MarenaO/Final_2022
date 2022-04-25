@@ -131,6 +131,8 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+The numerical results for the females shows the percentages of females who got covid while taking the vaccine and males who got covid while taking the placebo. It shows that around 59% of the females who took the placebo got covid. Whereas only 41% of females who took the vaccine got covid. This comes to show that the vaccine is effective towards females. The odds of getting covid-19 while taking the vaccine is 2:1.
+
 ### Inferential 
 
 
