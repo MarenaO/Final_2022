@@ -64,7 +64,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-The numerical results for the males shows the percentages of males who got covid while taking the vaccine and males who got covid while taking the placebo. It shows that around 67% of the males who took the placebo got covid. Whereas only 32% of males who took the vaccine got covid. This comes to show that the vaccine is effective towards males. The odds of getting covid-19 while taking the vaccine is 2:1.
+The numerical results for the males shows the percentages of males who got covid while taking the vaccine and males who got covid while taking the placebo. It shows that around 67% of the males who got covid took the placebo. Whereas only 32% of males who got covid took the vaccine. This comes to show that the vaccine is effective towards males. 
 
 ### Inferential 
 
