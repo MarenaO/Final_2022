@@ -77,6 +77,11 @@ malesfish <- fisher.test(table1)
 malesfish
 ```
 
+A Fisher’s Exact test was run and a p-value was given. The p-value came out to be 2.645e-11, which is quite a small p-value. This means that these results are not likely to occur by chance and that there is a statistically significant result.
+	The odds ratio above came out to be 2.09, meaning that the males that took the vaccine were less likely to contract covid than those who took the placebo.
+
+
+
 ```{r}
 effect <- malesfish$p.value/(malesfish$p.value +1)
 effectivenessguy = malesfish$estimate/(malesfish$estimate +1)*100
