@@ -304,3 +304,11 @@ options(digits=2)
 Shown above is the effectiveness for the covid-19 vaccine for the gays. If the effectiveness is above 50%, then the vaccine is shown to be effective. Based on the effectiveness confidence interval of 5.65%-23.78%, I can conclude that the vaccine is ineffective in protecting the gays from getting covid-19.
 	The odds ratio essentially shows how effective the vaccine is. The odds ratio for the gays is 13, with an effectiveness confidence interval of 5.65-23.78%, meaning that the vaccine is not effective in protecting the gays from getting covid-19.
 
+
+# Conclusion
+
+
+The covid-19 vaccine was not effective in protecting both the gays and the drug users from contracting covid-19. The covid-19 effectiveness was 13 for both the gays and the drug users. Although, the covid-19 vaccine was effective in protecting the males and females against covid-19. The covid-19 effectiveness for the males was around 67.7, and for the females it was 59. With this vaccine, both the females and males were protected, with the males being protected the most.
+If you identify as a gay or are a drug user, then this vaccine is not recommended because it can cause the contraction of covid-19. Although, if you are a male or a female, the vaccine is shown to be effective towards preventing the contraction of covid-19. 
+The null hypothesis that there is no difference in taking the vaccine can be accepted to the categories that include the gays and the drugusers. The alternative hypothesis, that the vaccine works and is effective can be accepted to the categories that include the males and the females.
+
