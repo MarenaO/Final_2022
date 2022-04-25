@@ -165,6 +165,10 @@ options(digits=2)
 
 ## Effectiveness Confidence Interval `r low`  to `r hi`
 
+Shown above is the effectiveness for the covid-19 vaccine for females. If the effectiveness is above 50%, then the vaccine is shown to be effective. Based on the effectiveness confidence interval of 53.5%-64.01%, I can conclude that the vaccine is effective in protecting females from getting covid-19.
+	The odds ratio essentially shows how effective the vaccine is. The odds ratio for the females is 59 with an effectiveness confidence interval of 53.5-64.01%, meaning that the vaccine is effective in protecting females from getting covid-19.
+
+
 
 ## LGBTQ
 
