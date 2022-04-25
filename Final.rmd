@@ -199,6 +199,9 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+The numerical results for the gays shows the percentages of gays who got covid while taking the vaccine and gays who got covid while taking the placebo. It shows that 13% of the gays who took the placebo got covid. Whereas 87% of the gays who took the vaccine got covid. This comes to show that the vaccine is ineffective towards the gays at preventing the contraction of covid-19.. The odds of getting covid-19 while taking the vaccine is 0.5:3. The gays that took the vaccine were six times more likely to get covid than those who took the placebo.
+
+
 ### Inferential 
 
 
