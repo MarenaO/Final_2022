@@ -100,6 +100,7 @@ options(digits=2)
 
 ## Effectiveness Confidence Interval `r low`  to `r hi`
 
+The odds ratio essentially shows how effective the vaccine is. The odds ratio for the males is around 67.7, with an effectiveness confidence interval of 62.51-72.51%, meaning that the vaccine is effective in protecting males from getting covid-19.
 
 
 ## Females
