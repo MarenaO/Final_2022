@@ -302,8 +302,8 @@ options(digits=2)
 
 ## Effectiveness Confidence Interval `r low`  to `r hi`
 
-Shown above is the effectiveness for the covid-19 vaccine for the gays. If the effectiveness is above 50%, then the vaccine is shown to be effective. Based on the effectiveness confidence interval of 5.65%-23.78%, I can conclude that the vaccine is ineffective in protecting the gays from getting covid-19.
-	The odds ratio essentially shows how effective the vaccine is. The odds ratio for the gays is 13, with an effectiveness confidence interval of 5.65-23.78%, meaning that the vaccine is not effective in protecting the gays from getting covid-19.
+Shown above is the effectiveness for the covid-19 vaccine for the gays. If the effectiveness is above 50%, then the vaccine is shown to be effective. Based on the effectiveness confidence interval of 7.11%-26.78%, I can conclude that the vaccine is ineffective in protecting the drug users from getting covid-19.
+	The odds ratio essentially shows how effective the vaccine is. The odds ratio for the drug users is 15, with an effectiveness confidence interval of 7.11-26.78%, meaning that the vaccine is not effective in protecting the drug users from getting covid-19.
 
 
 # Conclusion
